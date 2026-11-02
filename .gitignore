@@ -1,0 +1,17 @@
+# Python environment caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Local Environment Variables (Where you keep secret keys)
+.env
+vdoc/
+.venv/
+env/
+venv/
+ENV/
+
+# OS specific files
+.DS_Store
+Thumbs.db
